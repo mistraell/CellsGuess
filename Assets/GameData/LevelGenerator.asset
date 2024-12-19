@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a972c1c3e4f62341bedcc277e453c29, type: 3}
+  m_Name: LevelGenerator
+  m_EditorClassIdentifier: 
+  _levelObjectsData:
+  - {fileID: 11400000, guid: 853375080d6c21648b96b004cf20d9d1, type: 2}
+  - {fileID: 11400000, guid: e60cbcd8fced5a94e98aff579830587d, type: 2}
+  _difficultyLevels:
+  - {fileID: 11400000, guid: f7999e877962ba14d8d30fd1ced4954a, type: 2}
+  - {fileID: 11400000, guid: 1059592a92c375e4987222d7c33d6246, type: 2}
+  - {fileID: 11400000, guid: 4b9a2458f9b88fa4a994633528a2f894, type: 2}
